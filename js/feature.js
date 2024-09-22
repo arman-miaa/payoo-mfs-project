@@ -2,7 +2,8 @@
 document.getElementById("btn-show-cash-out")
     .addEventListener("click", function () {
 
-      // show cash out button clicked         
+      // show cash out button clicked 
+        
         document.getElementById("cash-out-form").classList.remove('hidden');
 
         // hide the add money form
